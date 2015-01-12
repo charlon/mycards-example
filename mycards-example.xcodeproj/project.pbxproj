@@ -409,6 +409,7 @@
 				853AF1EC1A533417007F1800 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		853AF1ED1A533417007F1800 /* Build configuration list for PBXNativeTarget "mycards-exampleTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				853AF1EF1A533417007F1800 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
